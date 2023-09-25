@@ -11,7 +11,7 @@ Here are some of the sites I update regularly.
 [Wim](https://wolandark.github.io/wim/)
 
 
-My Vim Live Server Plugin [link]({% post_url 2023-07-02-liveserver  %})
+My Vim Live Server Plugin 👉[here]({% post_url 2023-07-02-liveserver  %})
 
 # Daily Notes
 
