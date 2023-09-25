@@ -21,11 +21,11 @@ Install the `browser-sync` package globally using npm:
 <h1>Installation</h1>
 Use your favorite Vim plugin manager to install [vim-live-server](https://github.com/wolandark/vim-live-server).
 
-<h4>Using Vim [packages](https://vimhelp.org/repeat.txt.html#packages)	(**needs Vim 8+**)</h4>
+#### Using Vim [packages](https://vimhelp.org/repeat.txt.html#packages)	(**needs Vim 8+**)</h4>
 ```
 git clone https://github.com/wolandark/vim-live-server.git ~/.vim/pack/plugins/start/vim-live-server/
 ```
-<h4>Using [vim-plug](https://github.com/junegunn/vim-plug)</h4>
+#### Using [vim-plug](https://github.com/junegunn/vim-plug)</h4>
 
 Add the following line to your plugin configuration in your .vimrc file:
 ```
@@ -37,13 +37,13 @@ With vimplug you can use this alternative command that uses a post-installation 
 Plug 'https://github.com/wolandark/vim-live-server.git', { 'do': 'sudo npm install -g browser-sync' }
 ```
 
-<h4>Using [Vundle](https://github.com/VundleVim/Vundle.vim)</h4>
+#### Using [Vundle](https://github.com/VundleVim/Vundle.vim)</h4>
 
 ```
 Plugin 'https://github.com/wolandark/vim-live-server.git'
 ```
 
-<h4>Using [Pathogen](https://github.com/tpope/vim-pathogen)</h4>
+#### Using [Pathogen](https://github.com/tpope/vim-pathogen)</h4>
 
 Clone the vim-live-server repository into your Vim bundle directory:
 ```
@@ -85,5 +85,5 @@ nmap <F3> :KillBrowserSync <CR>
 <h1 align="center">Thats it! Enjoy!</h1>
 
 <h1>Demo</h1>
-![Alt Text](https://raw.githubusercontent.com/wolandark/browser-sync/master/assets/107309764/218cb8a0-459a-43cd-a987-1b43d1fb2b92)
+![Alt Text](https://github-production-user-asset-6210df.s3.amazonaws.com/107309764/240454424-218cb8a0-459a-43cd-a987-1b43d1fb2b92.mp4)
 
