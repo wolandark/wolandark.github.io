@@ -101,7 +101,7 @@ https://github.com/wolandark/browser-sync/assets/107309764/218cb8a0-459a-43cd-a9
 
 <h1>Daily Notes</h1>
 
-<h1>Contact me</h1>
+# Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wolandarkside)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact-woland@proton.me)
 
