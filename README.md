@@ -1,6 +1,3 @@
----
-layout: home
----
 
 <h1>My Sites</h1>
 Here are some of the sites I update regularly. 

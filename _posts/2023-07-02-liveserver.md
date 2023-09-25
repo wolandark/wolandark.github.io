@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Vim Live Server
 permalink: "/posts/liveserver"
 ---
