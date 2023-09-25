@@ -1,3 +1,9 @@
+---
+layout: post
+title: Vim Live Server
+permalink: "/posts/liveserver"
+---
+
 <h1>Vim Live Server</h1>
  A dead-simple live server implementation using [browser-sync](https://www.npmjs.com/package/browser-sync).
  
