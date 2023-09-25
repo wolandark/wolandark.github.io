@@ -85,5 +85,6 @@ nmap <F3> :KillBrowserSync <CR>
 <h1 align="center">Thats it! Enjoy!</h1>
 
 <h1>Demo</h1>
-![Alt Text](https://github-production-user-asset-6210df.s3.amazonaws.com/107309764/240454424-218cb8a0-459a-43cd-a987-1b43d1fb2b92.mp4)
+
+![demo](https://github-production-user-asset-6210df.s3.amazonaws.com/107309764/240454424-218cb8a0-459a-43cd-a987-1b43d1fb2b92.mp4)
 
