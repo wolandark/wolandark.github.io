@@ -10,8 +10,10 @@ Here are some of the sites I update regularly.
 
 [Wim](https://wolandark.github.io/wim/)
 
+[SnakeVim](https://wolandark.github.io/vimsnake)
 
-My Vim Live Server Plugin 👉[here]({% post_url 2023-07-02-liveserver  %})
+## My Vim Live Server Plugin 
+👉[here]({% post_url 2023-07-02-liveserver  %})
 
 # Daily Notes
 
