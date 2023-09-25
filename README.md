@@ -9,6 +9,9 @@ Here are some of the sites I update regularly.
 
 [Wim](https://wolandark.github.io/wim/)
 
+
+A link to a file in posts [folder]({% post_url 2023-07-02-liveserver  %})
+
 # Daily Notes
 
 # Contact me
