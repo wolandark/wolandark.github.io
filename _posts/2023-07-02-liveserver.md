@@ -85,5 +85,5 @@ nmap <F3> :KillBrowserSync <CR>
 <h1 align="center">Thats it! Enjoy!</h1>
 
 <h1>Demo</h1>
-<img src="https://github.com/wolandark/browser-sync/assets/107309764/218cb8a0-459a-43cd-a987-1b43d1fb2b92">
+![Alt Text](https://raw.githubusercontent.com/wolandark/browser-sync/master/assets/107309764/218cb8a0-459a-43cd-a987-1b43d1fb2b92)
 
