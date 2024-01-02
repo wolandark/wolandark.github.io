@@ -16,6 +16,7 @@ Here are some of the sites I update regularly.
 👉[here]({% post_url 2023-07-02-liveserver  %})
 
 # Daily Notes
+👉[here]({% post_url 2024-01-02-newyear  %})
 
 # Contact me
 
