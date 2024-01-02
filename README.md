@@ -16,10 +16,9 @@ Here are some of the sites I update regularly.
 👉[here]({% post_url 2023-07-02-liveserver  %})
 
 # Daily Notes
-👉[here]({% post_url 2024-01-02-newyear  %})
+👉[2024 New Year Note]({% post_url 2024-01-02-newyear  %})
 
 # Contact me
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wolandarkside)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact-woland@proton.me)
 
