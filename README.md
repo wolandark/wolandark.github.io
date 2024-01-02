@@ -17,6 +17,7 @@ Here are some of the sites I update regularly.
 
 # Daily Notes
 👉[2024 New Year Note]({% post_url 2024-01-02-newyear  %})
+👉[Tmux dethroned]({% post_url 2024-01-02-zelli  %})
 
 # Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wolandarkside)
